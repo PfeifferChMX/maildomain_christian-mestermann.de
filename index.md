@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 👥 Familie Mestermann 👥
+title: Familie Mestermann
 ---
 
 <h2 style="text-align: center;"><strong>Vielen Dank für Ihren Besuch auf dieser Seite.</strong></h2>
